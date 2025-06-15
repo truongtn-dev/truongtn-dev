@@ -15,7 +15,7 @@ Aspiring **Business Analyst** | Full-Stack Developer (FE & BE)
 ## Skills
 - **Languages:** JavaScript, Java, SQL, HTML/CSS  
 - **Frontend:** React, Bootstrap, TailwindCSS  
-- **Backend:** Node.js, Express, MySQL, MongoDB  
+- **Backend:** Node.js, SQLServer 
 - **Tools:** Git, VS Code, Figma, Draw.io  
 
 ## Career Goal
