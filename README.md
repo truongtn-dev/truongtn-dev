@@ -1,16 +1,22 @@
-## Hi there 👋
+# Nguyen Thanh Truong
 
-<!--
-**truongtn-dev/truongtn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student @ FPT University**  
+Aspiring **Business Analyst** | Full-Stack Developer (FE & BE)  
+📌 Portfolio: [truongtn-dev.github.io](https://truongtn-dev.github.io)  
+📧 Email: truongtn.dev@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Passionate about both **business analysis** and **software development**
+- Interested in understanding user needs and turning them into technical solutions
+- Continuously improving skills in **Frontend**, **Backend**, and system thinking
+
+## Skills
+- **Languages:** JavaScript, Java, SQL, HTML/CSS  
+- **Frontend:** React, Bootstrap, TailwindCSS  
+- **Backend:** Node.js, Express, MySQL, MongoDB  
+- **Tools:** Git, VS Code, Figma, Draw.io  
+
+## Career Goal
+Become a **Business Analyst** with strong coding skills to effectively collaborate with dev teams, design solutions, and deliver real business value.
